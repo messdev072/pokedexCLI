@@ -1,5 +1,5 @@
 # pokedexCLI
-Command line tool that mimic a pokedex in someway. Using api from pokemon site to get infomation and display base on user input command.
+A command-line REPL use the PokéAPI to power all of the data we'll need
 ## Wanna try testing? 
 Just clone it and run. Use help command for more info.
 ### 🤝 Contributing
@@ -28,6 +28,7 @@ go build
 ```bash
 go test ./...
 ```
+### 
 
 ### Submit a pull request
 
