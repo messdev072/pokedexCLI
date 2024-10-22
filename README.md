@@ -29,7 +29,7 @@ go build
 go test ./...
 ```
 ### Some command to begin with
-"help": Displays a help message\n
+"help": Displays a help message
 "exit": Exit the Pokedex
 "map" : Display 20 locations in Pokemon World
 "mapb": Display 20 previous locations in Pokemon World
