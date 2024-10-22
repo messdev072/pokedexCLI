@@ -28,8 +28,15 @@ go build
 ```bash
 go test ./...
 ```
-### 
-
+### Some command to begin with
+"help": Displays a help message
+"exit": Exit the Pokedex
+"map" : Display 20 locations in Pokemon World
+"mapb": Display 20 previous locations in Pokemon World
+"explore": Display Pokemons in area
+"catch": Attemp to catch a pokemon and add to pokedex
+"inspect": Inspect a caught pokemon
+"pokedex": Display your pokedex			
 ### Submit a pull request
 
 If you'd like to contribute, please fork the repository and open a pull request to the `main` branch.
