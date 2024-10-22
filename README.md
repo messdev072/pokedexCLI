@@ -29,13 +29,13 @@ go build
 go test ./...
 ```
 ### Some command to begin with
-"help": Displays a help message
-"exit": Exit the Pokedex
-"map" : Display 20 locations in Pokemon World
-"mapb": Display 20 previous locations in Pokemon World
-"explore": Display Pokemons in area
-"catch": Attemp to catch a pokemon and add to pokedex
-"inspect": Inspect a caught pokemon
+"help": Displays a help message,
+"exit": Exit the Pokedex,
+"map" : Display 20 locations in Pokemon World,
+"mapb": Display 20 previous locations in Pokemon World,
+"explore": Display Pokemons in area,
+"catch": Attemp to catch a pokemon and add to pokedex,
+"inspect": Inspect a caught pokemon,
 "pokedex": Display your pokedex			
 ### Submit a pull request
 
